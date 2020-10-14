@@ -103,7 +103,7 @@ def get_save_dir(args):
         )
 
     elif args.model == 'gtlvq':
-        save_dir = ('{}_Cifar10_proto_number_{}_tangents_{}_'
+        save_dir = ('{}_GTLVQ_proto_number_{}_tangents_{}_'
                     'augmentation_{}_loss_{}_timestamp_{}').format(
             args.dataset,
             args.number_prototypes,
