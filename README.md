@@ -1,3 +1,7 @@
+<p align="center">
+<img width="300" height="300" src="https://github.com/saralajew/robust_NPCs/blob/master/thumbnail.png">
+</p>
+
 # Fast Adversarial Robustness Certification of Nearest Prototype Classifiers for Arbitrary Seminorms
 Methods for adversarial robustness certification aim to provide an upper bound 
 on the test error of a classifier under adversarial manipulation of its input. 
